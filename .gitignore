@@ -1,0 +1,7 @@
+.DS_Store
+*.env
+*.pem
+*.key
+token_*.json
+client_secret.json
+__pycache__/

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popcorn Tales</title>
+    <link>https://www.youtube.com/@PipocaContaTales</link>
+    <atom:link href="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>© 2026 Pipoca Conta</copyright>
+    <description><![CDATA[Stories for kids to enjoy together! Popcorn the little owl opens and closes every episode: adventures, animal fables, funny stories, retold classics, bedtime stories and gently spooky tales with friendly ghosts and happy endings. Soft narration and calm sounds for children aged 3 to 7 to listen to with their family. Original stories and public-domain classics retold; every episode is also available in Portuguese on the Pipoca Conta podcast.
+
+Disclosure: narration uses a synthetic (AI-generated) voice. Stories, characters, music and jingle are original to Pipoca Conta.]]></description>
+    <itunes:summary>Stories for kids to enjoy together! Popcorn the little owl opens and closes every episode: adventures, animal fables, funny stories, retold classics, bedtime stories and gently spooky tales with friendly ghosts and happy endings. Soft narration and calm sounds for children aged 3 to 7 to listen to with their family. Original stories and public-domain classics retold; every episode is also available in Portuguese on the Pipoca Conta podcast.
+
+Disclosure: narration uses a synthetic (AI-generated) voice. Stories, characters, music and jingle are original to Pipoca Conta.</itunes:summary>
+    <itunes:author>Pipoca Conta</itunes:author>
+    <itunes:owner>
+      <itunes:name>Pipoca Conta</itunes:name>
+      <itunes:email>lincoln.galera@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+    <image>
+      <url>https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg</url>
+      <title>Popcorn Tales</title>
+      <link>https://www.youtube.com/@PipocaContaTales</link>
+    </image>
+    <itunes:category text="Kids &amp; Family">
+      <itunes:category text="Stories"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords>bedtime stories, kids stories, stories for kids, fairy tales, popcorn tales</itunes:keywords>
+    <podcast:guid>d63b98a4-4737-520d-99b1-a5cb9b61009e</podcast:guid>
+    <podcast:locked owner="lincoln.galera@gmail.com">no</podcast:locked>
+    <podcast:medium>podcast</podcast:medium>
+    <generator>pipoca build_feed.py</generator>
+    <lastBuildDate>Wed, 11 Nov 2026 11:04:25 +0000</lastBuildDate>
+    <item>
+      <title>Cinderella and the Glass Slipper</title>
+      <itunes:title>Cinderella and the Glass Slipper</itunes:title>
+      <description><![CDATA[<p>When the clock strikes midnight, the magic will end... Tonight Popcorn tells the famous fairy tale of Cinderella and the Glass Slipper. 👠🦉</p><p>Cinderella is the kindest girl in town, even though she works all day beside the ashes of the fireplace. With help from little owl Popcorn, the garden birds and a fairy godmother, a pumpkin becomes a carriage and she goes to the grand ball at the palace. But at midnight, a glass slipper is left behind on the staircase... Will the prince find the owner of the slipper? A gentle version with no scares, with forgiveness and a happy ending.</p><p>💛 Lesson: kindness and forgiveness make our hearts light, and gentleness always finds its way.<br/>👧 Recommended age: 3 to 7<br/>📖 Source: Charles Perrault, "Cendrillon ou la petite pantoufle de verre" (Cinderella, or the Little Glass Slipper, 1697, public domain), with one detail from the Brothers Grimm tale "Aschenputtel" (Children's and Household Tales no. 21, 1812, public domain). Original kid-friendly retelling by Popcorn Tales, written from the original tales. Nothing copied from films, cartoons or modern copyrighted versions; the stepmother, the stepsisters and the mice have no names on purpose.</p><p>At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/9HmtNmPmEzk</p>]]></description>
+      <content:encoded><![CDATA[<p>When the clock strikes midnight, the magic will end... Tonight Popcorn tells the famous fairy tale of Cinderella and the Glass Slipper. 👠🦉</p><p>Cinderella is the kindest girl in town, even though she works all day beside the ashes of the fireplace. With help from little owl Popcorn, the garden birds and a fairy godmother, a pumpkin becomes a carriage and she goes to the grand ball at the palace. But at midnight, a glass slipper is left behind on the staircase... Will the prince find the owner of the slipper? A gentle version with no scares, with forgiveness and a happy ending.</p><p>💛 Lesson: kindness and forgiveness make our hearts light, and gentleness always finds its way.<br/>👧 Recommended age: 3 to 7<br/>📖 Source: Charles Perrault, "Cendrillon ou la petite pantoufle de verre" (Cinderella, or the Little Glass Slipper, 1697, public domain), with one detail from the Brothers Grimm tale "Aschenputtel" (Children's and Household Tales no. 21, 1812, public domain). Original kid-friendly retelling by Popcorn Tales, written from the original tales. Nothing copied from films, cartoons or modern copyrighted versions; the stepmother, the stepsisters and the mice have no names on purpose.</p><p>At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/9HmtNmPmEzk</p>]]></content:encoded>
+      <itunes:summary>When the clock strikes midnight, the magic will end... Tonight Popcorn tells the famous fairy tale of Cinderella and the Glass Slipper. 👠🦉
+
+Cinderella is the kindest girl in town, even though she works all day beside the ashes of the fireplace. With help from little owl Popcorn, the garden birds and a fairy godmother, a pumpkin becomes a carriage and she goes to the grand ball at the palace. But at midnight, a glass slipper is left behind on the staircase... Will the prince find the owner of the slipper? A gentle version with no scares, with forgiveness and a happy ending.
+
+💛 Lesson: kindness and forgiveness make our hearts light, and gentleness always finds its way.
+👧 Recommended age: 3 to 7
+📖 Source: Charles Perrault, "Cendrillon ou la petite pantoufle de verre" (Cinderella, or the Little Glass Slipper, 1697, public domain), with one detail from the Brothers Grimm tale "Aschenputtel" (Children's and Household Tales no. 21, 1812, public domain). Original kid-friendly retelling by Popcorn Tales, written from the original tales. Nothing copied from films, cartoons or modern copyrighted versions; the stepmother, the stepsisters and the mice have no names on purpose.
+
+At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/9HmtNmPmEzk</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep10.mp3" length="8455468" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep10</guid>
+      <pubDate>Wed, 11 Nov 2026 11:01:54 +0000</pubDate>
+      <itunes:duration>00:11:03</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>10</podcast:episode>
+      <link>https://youtu.be/9HmtNmPmEzk</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep10.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>Snow White and the Seven Dwarfs</title>
+      <itunes:title>Snow White and the Seven Dwarfs</itunes:title>
+      <description><![CDATA[<p>Mirror, little mirror... who is the fairest of them all? Tonight Popcorn tells the famous fairy tale of Snow White and the Seven Dwarfs. 🍎🦉</p><p>Snow White has the kindest heart in the kingdom, and the vain queen grows very jealous. In the dark forest, little owl Popcorn guides the princess to the cottage of the seven dwarf miners. But an old woman arrives with an enchanted apple... Will Snow White wake up from her enchanted sleep? A gentle version with no big scares and a happy ending.</p><p>💛 Lesson: true beauty lives in a kind heart; envy only makes us sad, and good friends keep us safe.<br/>👧 Recommended age: 3 to 7<br/>📖 Source: Brothers Grimm, "Schneewittchen" (Snow White), Children's and Household Tales no. 53 (1812, public domain). Original kid-friendly retelling by Popcorn Tales, written from the Grimm tale. Nothing copied from films, cartoons or modern copyrighted versions; the dwarfs have no names on purpose.</p><p>At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/_g11Sa2tM7M</p>]]></description>
+      <content:encoded><![CDATA[<p>Mirror, little mirror... who is the fairest of them all? Tonight Popcorn tells the famous fairy tale of Snow White and the Seven Dwarfs. 🍎🦉</p><p>Snow White has the kindest heart in the kingdom, and the vain queen grows very jealous. In the dark forest, little owl Popcorn guides the princess to the cottage of the seven dwarf miners. But an old woman arrives with an enchanted apple... Will Snow White wake up from her enchanted sleep? A gentle version with no big scares and a happy ending.</p><p>💛 Lesson: true beauty lives in a kind heart; envy only makes us sad, and good friends keep us safe.<br/>👧 Recommended age: 3 to 7<br/>📖 Source: Brothers Grimm, "Schneewittchen" (Snow White), Children's and Household Tales no. 53 (1812, public domain). Original kid-friendly retelling by Popcorn Tales, written from the Grimm tale. Nothing copied from films, cartoons or modern copyrighted versions; the dwarfs have no names on purpose.</p><p>At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/_g11Sa2tM7M</p>]]></content:encoded>
+      <itunes:summary>Mirror, little mirror... who is the fairest of them all? Tonight Popcorn tells the famous fairy tale of Snow White and the Seven Dwarfs. 🍎🦉
+
+Snow White has the kindest heart in the kingdom, and the vain queen grows very jealous. In the dark forest, little owl Popcorn guides the princess to the cottage of the seven dwarf miners. But an old woman arrives with an enchanted apple... Will Snow White wake up from her enchanted sleep? A gentle version with no big scares and a happy ending.
+
+💛 Lesson: true beauty lives in a kind heart; envy only makes us sad, and good friends keep us safe.
+👧 Recommended age: 3 to 7
+📖 Source: Brothers Grimm, "Schneewittchen" (Snow White), Children's and Household Tales no. 53 (1812, public domain). Original kid-friendly retelling by Popcorn Tales, written from the Grimm tale. Nothing copied from films, cartoons or modern copyrighted versions; the dwarfs have no names on purpose.
+
+At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/_g11Sa2tM7M</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep09.mp3" length="7539218" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep09</guid>
+      <pubDate>Tue, 10 Nov 2026 09:49:55 +0000</pubDate>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>9</podcast:episode>
+      <link>https://youtu.be/_g11Sa2tM7M</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep09.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>The Headless Horseman</title>
+      <itunes:title>The Headless Horseman</itunes:title>
+      <description><![CDATA[<p>A gently spooky legend in Sleepy Valley... Tonight Popcorn tells the story of the Headless Horseman. 🎃🦉</p><p>On an autumn evening, boy Nico and little owl Popcorn meet the mysterious horseman from the famous legend. A little chill appears... until they learn that Thomas only lost his pumpkin hat in the wind. A story for a tiny shiver and a warm ending.</p><p>💛 Lesson: sometimes what looks scary just needs a little friend; fear shrinks when we ask kindly.<br/>👧 Recommended age: 3 to 7<br/>📖 Source: Washington Irving, "The Legend of Sleepy Hollow" (1820, public domain), original kid-friendly retelling by Popcorn Tales. Nothing copied from films or modern copyrighted versions.</p><p>At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/FL2EApYgAHE</p>]]></description>
+      <content:encoded><![CDATA[<p>A gently spooky legend in Sleepy Valley... Tonight Popcorn tells the story of the Headless Horseman. 🎃🦉</p><p>On an autumn evening, boy Nico and little owl Popcorn meet the mysterious horseman from the famous legend. A little chill appears... until they learn that Thomas only lost his pumpkin hat in the wind. A story for a tiny shiver and a warm ending.</p><p>💛 Lesson: sometimes what looks scary just needs a little friend; fear shrinks when we ask kindly.<br/>👧 Recommended age: 3 to 7<br/>📖 Source: Washington Irving, "The Legend of Sleepy Hollow" (1820, public domain), original kid-friendly retelling by Popcorn Tales. Nothing copied from films or modern copyrighted versions.</p><p>At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/FL2EApYgAHE</p>]]></content:encoded>
+      <itunes:summary>A gently spooky legend in Sleepy Valley... Tonight Popcorn tells the story of the Headless Horseman. 🎃🦉
+
+On an autumn evening, boy Nico and little owl Popcorn meet the mysterious horseman from the famous legend. A little chill appears... until they learn that Thomas only lost his pumpkin hat in the wind. A story for a tiny shiver and a warm ending.
+
+💛 Lesson: sometimes what looks scary just needs a little friend; fear shrinks when we ask kindly.
+👧 Recommended age: 3 to 7
+📖 Source: Washington Irving, "The Legend of Sleepy Hollow" (1820, public domain), original kid-friendly retelling by Popcorn Tales. Nothing copied from films or modern copyrighted versions.
+
+At Popcorn Tales, little owl Popcorn opens and closes every story. Soft narration, watercolor art, and calm sound. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales. Sound effects public domain/CC0 (Wikimedia Commons) and synthesized.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/FL2EApYgAHE</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep08.mp3" length="5865480" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep08</guid>
+      <pubDate>Tue, 10 Nov 2026 00:07:34 +0000</pubDate>
+      <itunes:duration>00:07:27</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>8</podcast:episode>
+      <link>https://youtu.be/FL2EApYgAHE</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep08.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>The Little Lion and the Brave Mouse</title>
+      <itunes:title>The Little Lion and the Brave Mouse</itunes:title>
+      <description><![CDATA[<p>A little lion, a brave mouse, and a promise that comes back... Tonight Popcorn tells the fable of Rafi and Mel. 🦁🐭</p><p>On the golden savanna, little lion Rafi frees tiny Mel. Days later, trapped in a net, it is the little mouse who saves him, gnawing rope by rope. A story about kindness that finds its way back.</p><p>💛 Lesson: nobody is too small to help; kindness comes back around.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: Aesop, "The Lion and the Mouse" (public domain), original retelling by Popcorn Tales.</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient and sound effects are public-domain/CC0 (Wikimedia Commons) or synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/MhIWC-fzn6I</p>]]></description>
+      <content:encoded><![CDATA[<p>A little lion, a brave mouse, and a promise that comes back... Tonight Popcorn tells the fable of Rafi and Mel. 🦁🐭</p><p>On the golden savanna, little lion Rafi frees tiny Mel. Days later, trapped in a net, it is the little mouse who saves him, gnawing rope by rope. A story about kindness that finds its way back.</p><p>💛 Lesson: nobody is too small to help; kindness comes back around.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: Aesop, "The Lion and the Mouse" (public domain), original retelling by Popcorn Tales.</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient and sound effects are public-domain/CC0 (Wikimedia Commons) or synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/MhIWC-fzn6I</p>]]></content:encoded>
+      <itunes:summary>A little lion, a brave mouse, and a promise that comes back... Tonight Popcorn tells the fable of Rafi and Mel. 🦁🐭
+
+On the golden savanna, little lion Rafi frees tiny Mel. Days later, trapped in a net, it is the little mouse who saves him, gnawing rope by rope. A story about kindness that finds its way back.
+
+💛 Lesson: nobody is too small to help; kindness comes back around.
+👧 Recommended age: 3 to 7 years
+📖 Source: Aesop, "The Lion and the Mouse" (public domain), original retelling by Popcorn Tales.
+
+On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient and sound effects are public-domain/CC0 (Wikimedia Commons) or synthesized.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/MhIWC-fzn6I</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep07.mp3" length="5731523" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep07</guid>
+      <pubDate>Mon, 09 Nov 2026 23:11:32 +0000</pubDate>
+      <itunes:duration>00:07:16</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>7</podcast:episode>
+      <link>https://youtu.be/MhIWC-fzn6I</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep07.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>The Cloud Who Couldn't Fall Asleep</title>
+      <itunes:title>The Cloud Who Couldn't Fall Asleep</itunes:title>
+      <description><![CDATA[<p>A restless little cloud, a sky full of friends, and a soft rain that rocks her to sleep... Tonight Popcorn helps Cotton find her rest. ☁️🌙</p><p>Cotton just can't close her eyes. With Popcorn the little owl, she asks the Moon, the Wind and the little stars how to fall asleep. Breathe deeply, float with no hurry, and count the lights in the sky... until a gentle rain rocks the little cloud and sleep arrives very quietly.</p><p>💛 Lesson: calm your body and mind; it's okay to slow down.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story.</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/vxgbp_QW0TI</p>]]></description>
+      <content:encoded><![CDATA[<p>A restless little cloud, a sky full of friends, and a soft rain that rocks her to sleep... Tonight Popcorn helps Cotton find her rest. ☁️🌙</p><p>Cotton just can't close her eyes. With Popcorn the little owl, she asks the Moon, the Wind and the little stars how to fall asleep. Breathe deeply, float with no hurry, and count the lights in the sky... until a gentle rain rocks the little cloud and sleep arrives very quietly.</p><p>💛 Lesson: calm your body and mind; it's okay to slow down.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story.</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/vxgbp_QW0TI</p>]]></content:encoded>
+      <itunes:summary>A restless little cloud, a sky full of friends, and a soft rain that rocks her to sleep... Tonight Popcorn helps Cotton find her rest. ☁️🌙
+
+Cotton just can't close her eyes. With Popcorn the little owl, she asks the Moon, the Wind and the little stars how to fall asleep. Breathe deeply, float with no hurry, and count the lights in the sky... until a gentle rain rocks the little cloud and sleep arrives very quietly.
+
+💛 Lesson: calm your body and mind; it's okay to slow down.
+👧 Recommended age: 3 to 7 years
+📖 Source: an original Popcorn Tales story.
+
+On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/vxgbp_QW0TI</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep06.mp3" length="6803717" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep06</guid>
+      <pubDate>Fri, 06 Nov 2026 05:53:18 +0000</pubDate>
+      <itunes:duration>00:08:45</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>6</podcast:episode>
+      <link>https://youtu.be/vxgbp_QW0TI</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep06.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>Popcorn's Trip Through the Planets</title>
+      <itunes:title>Popcorn's Trip Through the Planets</itunes:title>
+      <description><![CDATA[<p>A cardboard box, a little imagination and... lift off! Tonight Popcorn takes Lara on a trip through every planet in the Solar System. 🚀🪐</p><p>Lara can't fall asleep, and through her window she sees a little light shining brighter than all the stars. Popcorn the little owl tells her it's the planet Venus! With help from Boris the little ghost, they turn a cardboard box into a rocket and visit Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, discovering fun facts about each one: the hottest planet, Jupiter's giant storm, the planet that would float in a bathtub and the one that spins on its side. At the end, back in bed, Lara counts the planets very slowly until she falls asleep.</p><p>💛 Lesson: curiosity is like a rocket: every question takes us on a brand new adventure.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story, with simple science facts about the Solar System.<br/>🔭 Planet photos: NASA / JPL-Caltech / Johns Hopkins APL / USGS / Space Science Institute / ESA (public domain, via Wikimedia Commons).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, illustrations and calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/xhgSWEqpESo</p>]]></description>
+      <content:encoded><![CDATA[<p>A cardboard box, a little imagination and... lift off! Tonight Popcorn takes Lara on a trip through every planet in the Solar System. 🚀🪐</p><p>Lara can't fall asleep, and through her window she sees a little light shining brighter than all the stars. Popcorn the little owl tells her it's the planet Venus! With help from Boris the little ghost, they turn a cardboard box into a rocket and visit Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, discovering fun facts about each one: the hottest planet, Jupiter's giant storm, the planet that would float in a bathtub and the one that spins on its side. At the end, back in bed, Lara counts the planets very slowly until she falls asleep.</p><p>💛 Lesson: curiosity is like a rocket: every question takes us on a brand new adventure.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story, with simple science facts about the Solar System.<br/>🔭 Planet photos: NASA / JPL-Caltech / Johns Hopkins APL / USGS / Space Science Institute / ESA (public domain, via Wikimedia Commons).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, illustrations and calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/xhgSWEqpESo</p>]]></content:encoded>
+      <itunes:summary>A cardboard box, a little imagination and... lift off! Tonight Popcorn takes Lara on a trip through every planet in the Solar System. 🚀🪐
+
+Lara can't fall asleep, and through her window she sees a little light shining brighter than all the stars. Popcorn the little owl tells her it's the planet Venus! With help from Boris the little ghost, they turn a cardboard box into a rocket and visit Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, discovering fun facts about each one: the hottest planet, Jupiter's giant storm, the planet that would float in a bathtub and the one that spins on its side. At the end, back in bed, Lara counts the planets very slowly until she falls asleep.
+
+💛 Lesson: curiosity is like a rocket: every question takes us on a brand new adventure.
+👧 Recommended age: 3 to 7 years
+📖 Source: an original Popcorn Tales story, with simple science facts about the Solar System.
+🔭 Planet photos: NASA / JPL-Caltech / Johns Hopkins APL / USGS / Space Science Institute / ESA (public domain, via Wikimedia Commons).
+
+On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, illustrations and calm sounds for bedtime. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/xhgSWEqpESo</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep05.mp3" length="6830389" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep05</guid>
+      <pubDate>Thu, 05 Nov 2026 11:38:23 +0000</pubDate>
+      <itunes:duration>00:08:48</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>5</podcast:episode>
+      <link>https://youtu.be/xhgSWEqpESo</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep05.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>The Princess and the Magic Pea</title>
+      <itunes:title>The Princess and the Magic Pea</itunes:title>
+      <description><![CDATA[<p>Time to snuggle up for a bedtime story with Popcorn the owl! 🌙</p><p>On a rainy night, Princess Nina and her tiny owl Popcorn knock on a castle door. Kind Queen Dorothy makes a bed of ten mattresses… and hides a very special pea at the bottom. Will Nina be able to sleep? And what will she say in the morning? A gentle story, with a part where we count the mattresses together.</p><p>💛 Lesson: telling the truth kindly is a beautiful thing, and a calm heart helps us fall asleep.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original retelling of the classic fairy tale "The Princess and the Pea" by Hans Christian Andersen (1835, public domain).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient sounds synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/Tm84yVkbHxA</p>]]></description>
+      <content:encoded><![CDATA[<p>Time to snuggle up for a bedtime story with Popcorn the owl! 🌙</p><p>On a rainy night, Princess Nina and her tiny owl Popcorn knock on a castle door. Kind Queen Dorothy makes a bed of ten mattresses… and hides a very special pea at the bottom. Will Nina be able to sleep? And what will she say in the morning? A gentle story, with a part where we count the mattresses together.</p><p>💛 Lesson: telling the truth kindly is a beautiful thing, and a calm heart helps us fall asleep.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original retelling of the classic fairy tale "The Princess and the Pea" by Hans Christian Andersen (1835, public domain).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient sounds synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/Tm84yVkbHxA</p>]]></content:encoded>
+      <itunes:summary>Time to snuggle up for a bedtime story with Popcorn the owl! 🌙
+
+On a rainy night, Princess Nina and her tiny owl Popcorn knock on a castle door. Kind Queen Dorothy makes a bed of ten mattresses… and hides a very special pea at the bottom. Will Nina be able to sleep? And what will she say in the morning? A gentle story, with a part where we count the mattresses together.
+
+💛 Lesson: telling the truth kindly is a beautiful thing, and a calm heart helps us fall asleep.
+👧 Recommended age: 3 to 7 years
+📖 Source: an original retelling of the classic fairy tale "The Princess and the Pea" by Hans Christian Andersen (1835, public domain).
+
+On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient sounds synthesized.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/Tm84yVkbHxA</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep01.mp3" length="6147275" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep01</guid>
+      <pubDate>Wed, 04 Nov 2026 22:10:42 +0000</pubDate>
+      <itunes:duration>00:07:51</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>1</podcast:episode>
+      <link>https://youtu.be/Tm84yVkbHxA</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep01.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>The Little Ghost Who Was Scared of People</title>
+      <itunes:title>The Little Ghost Who Was Scared of People</itunes:title>
+      <description><![CDATA[<p>Creaks in the attic, a little round shadow in the hallway... who could it be? A gently spooky story with a warm, cozy ending for bedtime! 🌙</p><p>Lara has just moved into a blue house on top of a hill, and she's a tiny bit afraid of the dark. At night, she hears creaks and little footsteps up in the attic. With a flashlight in her hands and Popcorn the little owl on her shoulder, she climbs the stairs to find out... and meets Boris, a teeny tiny ghost who is very scared of people! A lightly suspenseful story full of giggles, about talking about our fears and making a friend who seems different.</p><p>💛 Lesson: when we talk about our fears, they get teeny tiny, and someone who seems different can become a wonderful friend.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story (not based on any book or film).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/3B4F13PGX7s</p>]]></description>
+      <content:encoded><![CDATA[<p>Creaks in the attic, a little round shadow in the hallway... who could it be? A gently spooky story with a warm, cozy ending for bedtime! 🌙</p><p>Lara has just moved into a blue house on top of a hill, and she's a tiny bit afraid of the dark. At night, she hears creaks and little footsteps up in the attic. With a flashlight in her hands and Popcorn the little owl on her shoulder, she climbs the stairs to find out... and meets Boris, a teeny tiny ghost who is very scared of people! A lightly suspenseful story full of giggles, about talking about our fears and making a friend who seems different.</p><p>💛 Lesson: when we talk about our fears, they get teeny tiny, and someone who seems different can become a wonderful friend.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story (not based on any book or film).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/3B4F13PGX7s</p>]]></content:encoded>
+      <itunes:summary>Creaks in the attic, a little round shadow in the hallway... who could it be? A gently spooky story with a warm, cozy ending for bedtime! 🌙
+
+Lara has just moved into a blue house on top of a hill, and she's a tiny bit afraid of the dark. At night, she hears creaks and little footsteps up in the attic. With a flashlight in her hands and Popcorn the little owl on her shoulder, she climbs the stairs to find out... and meets Boris, a teeny tiny ghost who is very scared of people! A lightly suspenseful story full of giggles, about talking about our fears and making a friend who seems different.
+
+💛 Lesson: when we talk about our fears, they get teeny tiny, and someone who seems different can become a wonderful friend.
+👧 Recommended age: 3 to 7 years
+📖 Source: an original Popcorn Tales story (not based on any book or film).
+
+On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/3B4F13PGX7s</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep04.mp3" length="6025236" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep04</guid>
+      <pubDate>Wed, 04 Nov 2026 21:14:09 +0000</pubDate>
+      <itunes:duration>00:07:41</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>4</podcast:episode>
+      <link>https://youtu.be/3B4F13PGX7s</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep04.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>The Out-of-Tune Road Band</title>
+      <itunes:title>The Out-of-Tune Road Band</itunes:title>
+      <description><![CDATA[<p>A donkey, a dog, a cat and a rooster form the most out-of-tune band in the world! Time to giggle along with Popcorn! 🌙</p><p>Theodore the donkey can't carry sacks of corn anymore, but his voice is still super strong. So he sets off for Flute Town to become a singer! Along the way, Popcorn the little owl, Pitanga the dog, Whiskers the cat and Crispin the rooster join the band. At night, in a forest cabin, they find two greedy raccoons with the town's festival pies... and only a very out-of-tune song can save the day!</p><p>💛 Lesson: it's never too late to start again, and together we are much stronger.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: a free retelling of "The Town Musicians of Bremen" by the Brothers Grimm (1819, public domain). Names, characters and ending created by Popcorn Tales.</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/Xbizl7nTANI</p>]]></description>
+      <content:encoded><![CDATA[<p>A donkey, a dog, a cat and a rooster form the most out-of-tune band in the world! Time to giggle along with Popcorn! 🌙</p><p>Theodore the donkey can't carry sacks of corn anymore, but his voice is still super strong. So he sets off for Flute Town to become a singer! Along the way, Popcorn the little owl, Pitanga the dog, Whiskers the cat and Crispin the rooster join the band. At night, in a forest cabin, they find two greedy raccoons with the town's festival pies... and only a very out-of-tune song can save the day!</p><p>💛 Lesson: it's never too late to start again, and together we are much stronger.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: a free retelling of "The Town Musicians of Bremen" by the Brothers Grimm (1819, public domain). Names, characters and ending created by Popcorn Tales.</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/Xbizl7nTANI</p>]]></content:encoded>
+      <itunes:summary>A donkey, a dog, a cat and a rooster form the most out-of-tune band in the world! Time to giggle along with Popcorn! 🌙
+
+Theodore the donkey can't carry sacks of corn anymore, but his voice is still super strong. So he sets off for Flute Town to become a singer! Along the way, Popcorn the little owl, Pitanga the dog, Whiskers the cat and Crispin the rooster join the band. At night, in a forest cabin, they find two greedy raccoons with the town's festival pies... and only a very out-of-tune song can save the day!
+
+💛 Lesson: it's never too late to start again, and together we are much stronger.
+👧 Recommended age: 3 to 7 years
+📖 Source: a free retelling of "The Town Musicians of Bremen" by the Brothers Grimm (1819, public domain). Names, characters and ending created by Popcorn Tales.
+
+On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Sound effects: public domain/CC0 recordings (Wikimedia Commons) and synthesized sounds.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/Xbizl7nTANI</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep03.mp3" length="6782048" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep03</guid>
+      <pubDate>Wed, 04 Nov 2026 21:14:05 +0000</pubDate>
+      <itunes:duration>00:08:44</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>3</podcast:episode>
+      <link>https://youtu.be/Xbizl7nTANI</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep03.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>The Dragon Who Sneezed Soap Bubbles</title>
+      <itunes:title>The Dragon Who Sneezed Soap Bubbles</itunes:title>
+      <description><![CDATA[<p>Achoo! Time to giggle along with Popcorn and a very special little dragon! 🌙</p><p>In Sunflower Village, every dragon learns to breathe fire... except Bartholomew. Every time he tries, all that comes out is a sneeze of soap bubbles! With help from his friend Mel, Popcorn the little owl and Granny Cotinha, he finds out his bubbles can save the village on a scorching hot day. A funny story, with a part where we all sneeze together: one, two, three... Achoo!</p><p>💛 Lesson: what makes us different can be our superpower: our differences are gifts.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story (not based on any book or film).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient sounds synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/YbDKnaxnjtw</p>]]></description>
+      <content:encoded><![CDATA[<p>Achoo! Time to giggle along with Popcorn and a very special little dragon! 🌙</p><p>In Sunflower Village, every dragon learns to breathe fire... except Bartholomew. Every time he tries, all that comes out is a sneeze of soap bubbles! With help from his friend Mel, Popcorn the little owl and Granny Cotinha, he finds out his bubbles can save the village on a scorching hot day. A funny story, with a part where we all sneeze together: one, two, three... Achoo!</p><p>💛 Lesson: what makes us different can be our superpower: our differences are gifts.<br/>👧 Recommended age: 3 to 7 years<br/>📖 Source: an original Popcorn Tales story (not based on any book or film).</p><p>On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.</p><p>🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient sounds synthesized.<br/>🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.</p><p>▶️ Video version: https://youtu.be/YbDKnaxnjtw</p>]]></content:encoded>
+      <itunes:summary>Achoo! Time to giggle along with Popcorn and a very special little dragon! 🌙
+
+In Sunflower Village, every dragon learns to breathe fire... except Bartholomew. Every time he tries, all that comes out is a sneeze of soap bubbles! With help from his friend Mel, Popcorn the little owl and Granny Cotinha, he finds out his bubbles can save the village on a scorching hot day. A funny story, with a part where we all sneeze together: one, two, three... Achoo!
+
+💛 Lesson: what makes us different can be our superpower: our differences are gifts.
+👧 Recommended age: 3 to 7 years
+📖 Source: an original Popcorn Tales story (not based on any book or film).
+
+On Popcorn Tales, Popcorn the little owl opens and closes every story. Soft narration, calm sounds for bedtime. Also in Portuguese on Pipoca Conta.
+
+🎵 Music: original score and jingle by Popcorn Tales (composed for the channel). Ambient sounds synthesized.
+🤖 Narrated with a synthetic (AI-generated) voice. Original story and characters.
+
+▶️ Video version: https://youtu.be/YbDKnaxnjtw</itunes:summary>
+      <enclosure url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/episodes/popcorn-tales-ep02.mp3" length="6794619" type="audio/mpeg"/>
+      <guid isPermaLink="false">popcorn-tales-en-ep02</guid>
+      <pubDate>Wed, 04 Nov 2026 18:44:29 +0000</pubDate>
+      <itunes:duration>00:08:45</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lincolngalera13.github.io/videos-automaticos/pipoca/art/cover_en.jpg"/>
+      <podcast:episode>2</podcast:episode>
+      <link>https://youtu.be/YbDKnaxnjtw</link>
+      <podcast:transcript url="https://lincolngalera13.github.io/videos-automaticos/pipoca/en/transcripts/popcorn-tales-ep02.srt" type="application/x-subrip" language="en" rel="captions"/>
+    </item>
+  </channel>
+</rss>
